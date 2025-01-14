@@ -1,0 +1,15 @@
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\01_Mi_Primera_Vez.csproj.AssemblyReference.cache
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Presentacion.MenuPrincipal.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Presentacion.CUPersonal.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Presentacion.Personal.FrmPersonal.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Properties.Resources.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\01_Mi_Primera_Vez.csproj.GenerateResource.cache
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\01_Mi_Primera_Vez.csproj.CoreCompileInputs.cache
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\bin\Debug\01_Mi_Primera_Vez.exe.config
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\bin\Debug\01_Mi_Primera_Vez.exe
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\bin\Debug\01_Mi_Primera_Vez.pdb
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\01_Mi_Primera_Vez.exe
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\01_Mi_Primera_Vez.pdb
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Presentacion.CUUsuarios.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Presentacion.Usuarios.FrmUsuarios.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Presentacion.Asistencias.FrmAsistencias.resources
