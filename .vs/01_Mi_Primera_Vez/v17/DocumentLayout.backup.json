@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|c:\\users\\sahil\\desktop\\sayuri cerna\\universidad\\4.-cuarto_semestre\\programaci\u00F3n orientada a objetos ii\\vscc\\01_mi_primera_vez\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|solutionrelative:presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\presentacion\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|solutionrelative:presentacion\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\presentacion\\usuarios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|solutionrelative:presentacion\\usuarios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\presentacion\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|c:\\users\\sahil\\desktop\\sayuri cerna\\universidad\\4.-cuarto_semestre\\programaci\u00F3n orientada a objetos ii\\vscc\\01_mi_primera_vez\\presentacion\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|solutionrelative:presentacion\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\presentacion\\cupersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|solutionrelative:presentacion\\cupersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|solutionrelative:presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\logica\\cls_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|solutionrelative:logica\\cls_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\logica\\cls_personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0952B7A-5400-498D-9F64-8E91A7D3202B}|01_Mi_Primera_Vez.csproj|solutionrelative:logica\\cls_personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,66 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "cls_personal.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Logica\\cls_personal.cs",
+              "RelativeDocumentMoniker": "Logica\\cls_personal.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Logica\\cls_personal.cs",
+              "RelativeToolTip": "Logica\\cls_personal.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAwwMYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:09:31.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cls_usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Logica\\cls_usuario.cs",
+              "RelativeDocumentMoniker": "Logica\\cls_usuario.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Logica\\cls_usuario.cs",
+              "RelativeToolTip": "Logica\\cls_usuario.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAuwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:03:46.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MenuPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Presentacion\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "Presentacion\\MenuPrincipal.cs",
               "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Presentacion\\MenuPrincipal.cs [Design]",
               "RelativeToolTip": "Presentacion\\MenuPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T22:33:55.492Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-14T22:33:55.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CUUsuarios.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Presentacion\\CUUsuarios.cs",
               "RelativeDocumentMoniker": "Presentacion\\CUUsuarios.cs",
               "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Presentacion\\CUUsuarios.cs [Design]",
               "RelativeToolTip": "Presentacion\\CUUsuarios.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T22:29:00.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Presentacion\\Usuarios\\FrmUsuarios.cs",
-              "RelativeDocumentMoniker": "Presentacion\\Usuarios\\FrmUsuarios.cs",
-              "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Presentacion\\Usuarios\\FrmUsuarios.cs",
-              "RelativeToolTip": "Presentacion\\Usuarios\\FrmUsuarios.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwDIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T22:21:24.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CUUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Presentacion\\CUUsuarios.cs",
-              "RelativeDocumentMoniker": "Presentacion\\CUUsuarios.cs",
-              "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Presentacion\\CUUsuarios.cs",
-              "RelativeToolTip": "Presentacion\\CUUsuarios.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwD8AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T22:14:39.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CUPersonal.cs",
-              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Presentacion\\CUPersonal.cs",
-              "RelativeDocumentMoniker": "Presentacion\\CUPersonal.cs",
-              "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\01_Mi_Primera_Vez\\Presentacion\\CUPersonal.cs",
-              "RelativeToolTip": "Presentacion\\CUPersonal.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAAAEIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T22:13:22.506Z"
+              "WhenOpened": "2025-01-14T22:29:00.409Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

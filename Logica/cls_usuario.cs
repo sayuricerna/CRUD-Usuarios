@@ -151,8 +151,11 @@ namespace _01_Mi_Primera_Vez.Logica
 
             using (var conexion = cn.obtenerConexion())
             {
-                string cadena = "SELECT * FROM Usuario" +
-                    $"where NombreUsuario like '%{texto}%'";
+                //string cadena = "SELECT * FROM Usuario" +
+                // $"where NombreUsuario like '%{texto}%'";
+                string cadena = "SELECT * FROM Usuario " +
+                    $"WHERE NombreUsuario LIKE '%{texto}%'";
+
                 using (var comando = new SqlCommand(cadena, conexion)) 
                 {
                     conexion.Open();
